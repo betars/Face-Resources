@@ -20,6 +20,7 @@ Following is a growing list of some of the materials I found on the web for rese
 4. [MSRA-CFW](http://research.microsoft.com/en-us/projects/msra-cfw/). 202,792 images and 1,583 subjects.
 5. [MegaFace Dataset](http://megaface.cs.washington.edu/) 1 Million Faces for Recognition at Scale
 690,572 unique people
+
 ##Trained Model
 
 1. [openface](https://github.com/cmusatyalab/openface). Face recognition with Google's FaceNet deep neural network using Torch.
