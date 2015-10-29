@@ -2,8 +2,15 @@
 Following is a growing list of some of the materials I found on the web for research on face recognition algorithm.
 
 ##Papers
+
 1. [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf).A work from Facebook.
 2. [FaceNet](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf).A work from Google.
+3. [ One Millisecond Face Alignment with an Ensemble of Regression Trees]([http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf](http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf)). Dlib implements the algorithm.
+4. [DeepID]([http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf))
+5. [DeepID2]([http://arxiv.org/abs/1406.4773](http://arxiv.org/abs/1406.4773))
+6. [DeepID3]([http://arxiv.org/abs/1502.00873](http://arxiv.org/abs/1502.00873))
+7. [Learning Face Representation from Scratch]([http://arxiv.org/abs/1411.7923](http://arxiv.org/abs/1411.7923))
+8. [Face Search at Scale: 80 Million Gallery]([http://arxiv.org/abs/1507.07242](http://arxiv.org/abs/1507.07242))
 
 ##Datasets
 
