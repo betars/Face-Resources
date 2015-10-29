@@ -31,7 +31,7 @@ Following is a growing list of some of the materials I found on the web for rese
 
 1. [OpenCV](http://opencv.org/)
 2. [dlib](http://dlib.net/ml.html)
-3. [ccv](https://github.com/liuliu/ccv)
+3. [ccv](https://github.com/liuliu/ccv)  With a state-of-the-art frontal face detector
 
 ##Frameworks
 
