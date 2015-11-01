@@ -47,4 +47,4 @@ Following is a growing list of some of the materials I found on the web for rese
 
 ---
 
->Created by betars on 27/10/2015. Email:xujingping@mail.bnu.edu.cn
+>Created by betars on 27/10/2015.
