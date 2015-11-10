@@ -28,7 +28,9 @@ Following is a growing list of some of the materials I found on the web for rese
 1. [openface](https://github.com/cmusatyalab/openface). Face recognition with Google's FaceNet deep neural network using Torch.
 2. [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/). VGG-Face CNN descriptor. Impressed embedding loss.
 
+##Tutorial
 
+1. [Deep Learning for Face Recognition](http://valse.mmcheng.net/deep-learning-for-face-recognition/). Shiguan Shan, Xiaogang Wang, and Ming yang.
 ##Software
 
 1. [OpenCV](http://opencv.org/). With some trained face detector models.
