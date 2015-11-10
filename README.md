@@ -31,6 +31,7 @@ Following is a growing list of some of the materials I found on the web for rese
 ##Tutorial
 
 1. [Deep Learning for Face Recognition](http://valse.mmcheng.net/deep-learning-for-face-recognition/). Shiguan Shan, Xiaogang Wang, and Ming yang.
+
 ##Software
 
 1. [OpenCV](http://opencv.org/). With some trained face detector models.
