@@ -52,6 +52,7 @@ Following is a growing list of some of the materials I found on the web for rese
 
 1. [faceswap](https://github.com/matthewearl/faceswap)  Face swapping with Python, dlib, and OpenCV
 2. [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial) Competition on Kaggle.
+3. [An implementation of Face Alignment at 3000fps via Local Binary Features](https://github.com/freesouls/face-alignment-at-3000fps)
 
 ---
 
