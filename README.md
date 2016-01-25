@@ -49,6 +49,7 @@ Following is a growing list of some of the materials I found on the web for rese
 1. [OpenCV](http://opencv.org/). With some trained face detector models.
 2. [dlib](http://dlib.net/ml.html). Dlib implements a state-of-the-art of face Alignment algorithm.
 3. [ccv](https://github.com/liuliu/ccv).  With a state-of-the-art frontal face detector
+4. [libfacedetection](https://github.com/ShiqiYu/libfacedetection). A binary library for face detection in images.
 
 ##Frameworks
 
