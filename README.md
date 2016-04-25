@@ -58,6 +58,7 @@ Following is a growing list of some of the materials I found on the web for rese
 3. [Theano](http://deeplearning.net/software/theano/)
 4. [cuda-convnet](https://code.google.com/p/cuda-convnet/)
 5. [MXNET](https://github.com/dmlc/mxnet/)
+6. [Tensorflow](https://github.com/tensorflow)
 
 ##Miscellaneous
 
