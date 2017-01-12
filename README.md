@@ -11,6 +11,7 @@ Following is a growing list of some of the materials I found on the web for rese
 6. [DeepID3](http://arxiv.org/abs/1502.00873)
 7. [Learning Face Representation from Scratch](http://arxiv.org/abs/1411.7923)
 8. [Face Search at Scale: 80 Million Gallery](http://arxiv.org/abs/1507.07242)
+9. [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf)
 
 ##Datasets
 
@@ -41,6 +42,7 @@ Following is a growing list of some of the materials I found on the web for rese
 1. [openface](https://github.com/cmusatyalab/openface). Face recognition with Google's FaceNet deep neural network using Torch.
 2. [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/). VGG-Face CNN descriptor. Impressed embedding loss.
 3. [SeetaFace Engine](https://github.com/seetaface/SeetaFaceEngine). SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence. 
+4. [Caffe-face](https://github.com/ydwen/caffe-face) - Caffe Face is developed for face recognition using deep neural networks. 
 
 ##Tutorial
 
