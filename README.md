@@ -16,7 +16,7 @@ Following is a growing list of some of the materials I found on the web for rese
 10. [NormFace: L2 Hypersphere Embedding for Face Verification](https://arxiv.org/abs/1704.06369).* attention: model released !*
 11. [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)
 
-##Datasets
+## Datasets
 
 1. [CASIA WebFace Database](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html). 10,575 subjects and 494,414 images
 2. [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/).13,000 images and 5749 subjects
