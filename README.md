@@ -1,7 +1,7 @@
 # Face-Resources
 Following is a growing list of some of the materials I found on the web for research on face recognition algorithm.
 
-##Papers
+## Papers
 
 1. [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf).A work from Facebook.
 2. [FaceNet](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf).A work from Google.
@@ -40,7 +40,7 @@ Following is a growing list of some of the materials I found on the web for rese
 
 
 
-##Trained Model
+## Trained Model
 
 1. [openface](https://github.com/cmusatyalab/openface). Face recognition with Google's FaceNet deep neural network using Torch.
 2. [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/). VGG-Face CNN descriptor. Impressed embedding loss.
@@ -50,11 +50,11 @@ Following is a growing list of some of the materials I found on the web for rese
 5. [Norm-Face](https://github.com/happynear/NormFace) - Norm Face, finetuned from  [center-face](https://github.com/ydwen/caffe-face) and [Light-CNN](https://github.com/AlfredXiangWu/face_verification_experiment)
 
 
-##Tutorial
+## Tutorial
 
 1. [Deep Learning for Face Recognition](http://valse.mmcheng.net/deep-learning-for-face-recognition/). Shiguan Shan, Xiaogang Wang, and Ming yang.
 
-##Software
+## Software
 
 1. [OpenCV](http://opencv.org/). With some trained face detector models.
 2. [dlib](http://dlib.net/ml.html). Dlib implements a state-of-the-art of face Alignment algorithm.
@@ -72,7 +72,7 @@ Following is a growing list of some of the materials I found on the web for rese
 6. [Tensorflow](https://github.com/tensorflow)
 7. [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
 
-##Miscellaneous
+## Miscellaneous
 
 1. [faceswap](https://github.com/matthewearl/faceswap)  Face swapping with Python, dlib, and OpenCV
 2. [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial) Competition on Kaggle.
