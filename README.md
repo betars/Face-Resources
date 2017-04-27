@@ -13,7 +13,7 @@ Following is a growing list of some of the materials I found on the web for rese
 8. [Face Search at Scale: 80 Million Gallery](http://arxiv.org/abs/1507.07242)
 9. [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf)
 
-10. [NormFace: L2 Hypersphere Embedding for Face Verification](https://arxiv.org/abs/1704.06369)  [**model released!**]
+10. [NormFace: L2 Hypersphere Embedding for Face Verification](https://arxiv.org/abs/1704.06369).[* attention: model released!*]
 11. [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)
 
 ##Datasets
