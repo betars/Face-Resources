@@ -13,6 +13,9 @@ Following is a growing list of some of the materials I found on the web for rese
 8. [Face Search at Scale: 80 Million Gallery](http://arxiv.org/abs/1507.07242)
 9. [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf)
 
+10. [NormFace: L2 Hypersphere Embedding for Face Verification](https://arxiv.org/abs/1704.06369)  [**model released!**]
+11. [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)
+
 ##Datasets
 
 1. [CASIA WebFace Database](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html). 10,575 subjects and 494,414 images
@@ -43,6 +46,9 @@ Following is a growing list of some of the materials I found on the web for rese
 2. [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/). VGG-Face CNN descriptor. Impressed embedding loss.
 3. [SeetaFace Engine](https://github.com/seetaface/SeetaFaceEngine). SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence. 
 4. [Caffe-face](https://github.com/ydwen/caffe-face) - Caffe Face is developed for face recognition using deep neural networks. 
+
+5. [Norm-Face](https://github.com/happynear/NormFace) - Norm Face ,finetuned from  [center-face](https://github.com/ydwen/caffe-face) and [Light-CNN](https://github.com/AlfredXiangWu/face_verification_experiment)
+
 
 ##Tutorial
 
